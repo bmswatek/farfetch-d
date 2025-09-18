@@ -1,4 +1,5 @@
 fartoken.txt
 .env
-node_modules/
-/src/data/channelSettings.json
+
+/node_modules/
+/src/data/*.json
